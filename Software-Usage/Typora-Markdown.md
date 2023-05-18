@@ -78,8 +78,6 @@ Markdown只是一种语法. 而<u>**Typora**</u>就是一款非常优秀的Markd
 
 ##### <font color = "#2980b9">2.字体背景颜色</font>
 
-![截屏2023-05-08 22.09.47](/Users/superlande/Pictures/截屏2023-05-08 22.09.47.png)
-
 :memo:示例:<span style="background-color: #87CEFA;">一、提高政治站位，强化组织领导。</span>
 
 ##### <font color = "#2980b9">3.emoji的使用[见下文]</font>
