@@ -7,7 +7,8 @@ Midjourney 本身并非AI的名称，Midjourney是一家独立的研究实验室
 #### 注意事项
 
    本教程仅供**浙江允道律师事务所**使用，教程内容将会围绕事务所业务进行。
-   ![img](http://www.yundaolvshi.com/images/logo.png)
+  
+  ![img](http://www.yundaolvshi.com/images/logo.png)
 
 #### 一、如何上手MIDJOURNEY
 
