@@ -10,9 +10,7 @@
 
 **Markdown** 是一种轻量型标记语言, 是一种语法. 以 `.md` 结尾的文本文件就是 Markdown 文件. 相较于 **Word**, 它更加像是 **HTML** 语言。
 
-![截屏2023-05-08 15.44.51](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 15.44.51.png)
-
-
+![截屏2023-05-08 15.44.51](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2015.44.51.png)
 
 ##### :+1:Markdown的优势
 
@@ -28,7 +26,7 @@ Markdown处处透露着一种极简主义, 高效简洁且清晰, 尤其在处�
 <center><font color="#87CEFA" size="18">关于深入推进“断卡”行动有关问题的会议纪要</font></center>
 ```
 
-![截屏2023-05-08 18.04.13](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 18.04.13.png)
+![截屏2023-05-08 18.04.13](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2018.04.13.png)
 
 看起来会很复杂，但是制作文本并不像设计网页那么复杂，<font color = "#2980b9">我们只需要掌握简单的文本底色、文本颜色、居中的方式，学习一次之后下次遇到这种问题就可以直接套用了，就算有新的问题也可以交给chatgpt, 不需要自己系统学习html语言.</font>
 
@@ -66,15 +64,15 @@ Markdown只是一种语法. 而<u>**Typora**</u>就是一款非常优秀的Markd
 <font color="#87CEFA">关于深入推进“断卡”行动有关问题的会议纪要</font>
 ```
 
-![截屏2023-05-08 18.41.48](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 18.41.48.png)
+![截屏2023-05-08 18.41.48](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2018.41.48.png)
 
 以上代码中`#87CEFA`这一部分颜色代码就可以通过设计网站中获取, 在该网站中[Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)，可以通过点击颜色块直接复制颜色代码.具体操作流程如下:
 
-(1).在主页面中可以选择一套颜色版, 作为整篇文章的风格色系.![截屏2023-05-08 22.15.01](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 22.15.01.png)
+(1).在主页面中可以选择一套颜色版, 作为整篇文章的风格色系.![截屏2023-05-08 22.15.01](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2022.15.01.png)
 
 (2).进入颜色版后可以选择不同的颜色作为文本颜色或文本背景颜色. 点击具体色块复制颜色代码
 
-![截屏2023-05-08 18.29.44](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 18.29.44.png)
+![截屏2023-05-08 18.29.44](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2018.29.44.png)
 
 (3)使用复制的颜色代码替换chatgpt给的html代码中的颜色代码![截屏2023-05-08 22.41.24](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 22.41.24.png)
 
@@ -177,7 +175,9 @@ _Markdown是一个轻量化的标记语言_
 
 ##### <font color = "#2980b9">5.高亮[用"=="包围]</font>
 
-（此为扩展语法)需要在tpora偏好设置中勾选![截屏2023-05-08 22.43.55](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 22.43.55.png)
+（此为扩展语法)需要在tpora偏好设置中勾选
+
+![截屏2023-05-08 22.43.55](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2022.43.55.png)
 
 ==Markdown是一个轻量化标记语言==
 
@@ -320,7 +320,7 @@ Todolist:
 
 直接在段落-表格-插入表格中选择即可
 
-![截屏2023-05-08 22.47.39](/Users/superlande/Library/Application Support/typora-user-images/截屏2023-05-08 22.47.39.png)
+![截屏2023-05-08 22.47.39](https://raw.githubusercontent.com/SuperLande/KM-Img/main/%E6%88%AA%E5%B1%8F2023-05-08%2022.47.39.png)
 
 ##### <font color = "#2980b9">17.图片[可以直接拖进来！]</font>
 
